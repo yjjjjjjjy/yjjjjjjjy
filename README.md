@@ -1,5 +1,5 @@
 ##### Jiyoung:smiley:
-<a href="https://github.com/yjjjjjjjy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="yunjy0088@gamil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/yjjjjjjjy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="mailto:yunjy0088@gamil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ##### Studying...:notebook_with_decorative_cover:
 <p>
