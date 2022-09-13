@@ -1,4 +1,5 @@
-##### Jiyoung:smiley:
+
+<!--##### Jiyoung:smiley:
 <a href="https://github.com/yjjjjjjjy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="mailto:yunjy0088@gamil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 https://onedrive.live.com/view.aspx?resid=8D34CCB37C1C147E!916&id=documents
@@ -11,3 +12,4 @@ https://onedrive.live.com/view.aspx?resid=8D34CCB37C1C147E!916&id=documents
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjjjjjjjy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjjjjjjjy&show_icons=true&theme=flag-india)  -->
+-->
